@@ -1,0 +1,5 @@
+rootProject.name = 'kotlin-coroutine-learning'
+include 'coroutine-lite'
+include 'coroutine-lite'
+include 'sample'
+
